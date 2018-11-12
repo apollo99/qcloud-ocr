@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "QcloudImage\\":"qcloud-ocr/image-php-sdk/QcloudImage"
+            "QcloudImage\\":"QcloudImage"
         }
     }
 }
